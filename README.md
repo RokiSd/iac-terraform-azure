@@ -1,2 +1,2 @@
 # iac-terraform-azure
-praca z azure
+1 próba pracy z azure 
